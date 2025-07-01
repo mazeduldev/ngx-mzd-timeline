@@ -2,6 +2,10 @@
 
 Angular material theme supported minimalist's vertical timeline library for Angular applications.
 
+# Warning: Archiving This Repository!!!
+
+In last couple of years, my life is changed a lot, and my personal goal and interests are also changed. I am not using Angular for the last couple of years, but Angular is evolving a lot during this period. Therefore, it's almost impossible for me to keep this package updated and usable with the latest Angular versions. As a result, I'm archiving this repository.
+
 ## Live Demo
 
 Live demo is available at [github pages](https://mazid1.github.io/ngx-mzd-timeline).
